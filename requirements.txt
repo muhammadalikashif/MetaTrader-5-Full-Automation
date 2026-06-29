@@ -1,0 +1,5 @@
+MetaTrader5
+psutil
+pywin32
+streamlit
+pandas

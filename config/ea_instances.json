@@ -1,0 +1,144 @@
+{
+  "instances": [
+    {
+      "instance_id": "Architect_Sharpshooter",
+      "ea_name": "Architect_EA_v4_00",
+      "symbol": "EURUSD",
+      "timeframe": "PERIOD_M15",
+      "magic_number": 111001,
+      "template_name": "tpl_Architect_Sharpshooter.tpl",
+      "set_file_name": "Sharpshooter_eu_m15.set",
+      "enabled": true
+    },
+    {
+      "instance_id": "Architect_Vigorous",
+      "ea_name": "Architect_EA_v4_00",
+      "symbol": "EURUSD",
+      "timeframe": "PERIOD_M1",
+      "magic_number": 111002,
+      "template_name": "tpl_Architect_Vigorous.tpl",
+      "set_file_name": "Vigorous_eu_m1_(ADX_H4_Trend_(ADX_SL).set",
+      "enabled": false
+    },
+    {
+      "instance_id": "Architect_Ranger",
+      "ea_name": "Architect_EA_v4_00",
+      "symbol": "AUDCAD",
+      "timeframe": "PERIOD_H1",
+      "magic_number": 111003,
+      "template_name": "tpl_Architect_Ranger.tpl",
+      "set_file_name": "Ranger_audcad_h1.set",
+      "enabled": false
+    },
+    {
+      "instance_id": "Architect_ScalperX",
+      "ea_name": "Architect_EA_v4_00",
+      "symbol": "EURUSD",
+      "timeframe": "PERIOD_M1",
+      "magic_number": 111004,
+      "template_name": "tpl_Architect_ScalperX.tpl",
+      "set_file_name": "Strategy_4_eu,uj_m1_(ScalperX).set",
+      "enabled": false
+    },
+    {
+      "instance_id": "Architect_Gold_ADX",
+      "ea_name": "Architect_EA_v4_00",
+      "symbol": "XAUUSD",
+      "timeframe": "PERIOD_H1",
+      "magic_number": 111005,
+      "template_name": "tpl_Architect_Gold_ADX.tpl",
+      "set_file_name": "Gold_ADX_Trend_H1.set",
+      "enabled": false
+    },
+    {
+      "instance_id": "Architect_AI_Vigorous",
+      "ea_name": "Architect_EA_v4_00",
+      "symbol": "EURUSD",
+      "timeframe": "PERIOD_M1",
+      "magic_number": 111006,
+      "template_name": "tpl_Architect_AI_Vigorous.tpl",
+      "set_file_name": "vigorous_AI_(forex_m1).set",
+      "enabled": false
+    },
+    {
+      "instance_id": "Architect_AI_Sharpshooter",
+      "ea_name": "Architect_EA_v4_00",
+      "symbol": "EURUSD",
+      "timeframe": "PERIOD_M15",
+      "magic_number": 111007,
+      "template_name": "tpl_Architect_AI_Sharpshooter.tpl",
+      "set_file_name": "sharpshooter_AI_(forex_&_gold_m15).set",
+      "enabled": false
+    },
+    {
+      "instance_id": "Dark_Mimas_Classic",
+      "ea_name": "Dark Mimas MT5",
+      "symbol": "EURUSD",
+      "timeframe": "PERIOD_H1",
+      "magic_number": 193600,
+      "template_name": "tpl_Dark_Mimas_Classic.tpl",
+      "set_file_name": "Dark_Mimas_Classic_Mode_(No_Grid).set",
+      "enabled": true
+    },
+    {
+      "instance_id": "Dark_Rea_Classic",
+      "ea_name": "Dark Rea MT5",
+      "symbol": "EURUSD",
+      "timeframe": "PERIOD_H1",
+      "magic_number": 193700,
+      "template_name": "tpl_Dark_Rea_Classic.tpl",
+      "set_file_name": "Dark_Rea_Classic_Mode_(no_grid).set",
+      "enabled": false
+    },
+    {
+      "instance_id": "COP_Dash_CSM",
+      "ea_name": "COP_Dash_CSM_v1.1(p)",
+      "symbol": "EURUSD",
+      "timeframe": "PERIOD_H1",
+      "magic_number": 202200,
+      "template_name": "tpl_COP_Dash_CSM.tpl",
+      "set_file_name": "",
+      "enabled": false
+    },
+    {
+      "instance_id": "tradeCorelogger_EURUSD",
+      "ea_name": "tradeCorelogger_v2.2",
+      "symbol": "EURUSD",
+      "timeframe": "PERIOD_M5",
+      "magic_number": 999001,
+      "template_name": "tpl_tradeCorelogger_EURUSD.tpl",
+      "set_file_name": "tradeCorelogger_default.set",
+      "enabled": true
+    },
+    {
+      "instance_id": "tradeCorelogger_XAUUSD",
+      "ea_name": "tradeCorelogger_v2.2",
+      "symbol": "XAUUSD",
+      "timeframe": "PERIOD_M5",
+      "magic_number": 999002,
+      "template_name": "tpl_tradeCorelogger_XAUUSD.tpl",
+      "set_file_name": "tradeCorelogger_default.set",
+      "enabled": true
+    },
+    {
+      "instance_id": "tradeCorelogger_GBPUSD",
+      "ea_name": "tradeCorelogger_v2.2",
+      "symbol": "GBPUSD",
+      "timeframe": "PERIOD_M5",
+      "magic_number": 999003,
+      "template_name": "tpl_tradeCorelogger_GBPUSD.tpl",
+      "set_file_name": "tradeCorelogger_default.set",
+      "enabled": false
+    },
+    {
+      "instance_id": "XAUUSD_5_Minute",
+      "ea_name": "XAUUSD 5 minute",
+      "symbol": "XAUUSD",
+      "timeframe": "PERIOD_M15",
+      "magic_number": 300001,
+      "template_name": "xauusd5min.tpl",
+      "set_file_name": "",
+      "enabled": true
+    }
+  ]
+}

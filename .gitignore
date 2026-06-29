@@ -1,0 +1,56 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# MT5 credentials
+config/launch_*.ini
+
+# Runtime state and reports
+runtime_state/
+runtime_reports/
+
+# Archive (obsolete GUI scripts)
+archive/
+
+# Logs
+logs/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Project planning files (optional tracking)
+task_plan.md
+findings.md
+progress.md
+progressMT5.md
+commands.txt
+term_help.txt
+terminal_help.txt
+compile_result.log
+
+# Compiled MQL5 binaries
+mql5/*.ex5
+mql5/compile*.log
+mql5/compile*.txt
+
+# Backups
+backup_milestone_10/
+
+# Reports
+reports/
+
+# OpenCode AI config (personal)
+.opencode/
